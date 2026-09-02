@@ -19,8 +19,8 @@ In case that the reader doesn't meet the requirements, then read the appendix fo
 ## Installation
 Please, install the following ROS2 packages through Ubuntu terminal:
 
-    sudo apt-install ros-humble-ros2-control*
-    sudo apt-install ros-humble-gazebo-ros2-control*
+    sudo apt install ros-humble-ros2-control*
+    sudo apt install ros-humble-gazebo-ros2-control*
     sudo apt install ros-humble-control*
     sudo apt install ros-humble-resources*
  
